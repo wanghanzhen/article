@@ -19,6 +19,8 @@
 - [一篇文章搞定 javascript 正则表达式](https://juejin.im/post/5b6adc7ee51d4534b8587560)
 - [JS 中可以提升幸福度的小技巧](https://juejin.im/post/5b51e5d3f265da0f4861143c)
 - [hey，你的Promise](https://juejin.im/post/5b58300b6fb9a04fea58a27e)
+- [摆脱令人抓狂的ESlint 语法检测配置说明](https://segmentfault.com/a/1190000008742240)
+- [webpack4-用之初体验，一起敲它十一遍](https://juejin.im/post/5adea0106fb9a07a9d6ff6de)
 
 ##  <div id="CSS"></div>CSS
 
