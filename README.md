@@ -31,6 +31,7 @@
 - [vue中Axios的封装和API接口的管理](https://juejin.im/post/5b55c118f265da0f6f1aa354)
 - [160行代码仿Vue实现极简双向绑定](https://juejin.im/post/5b2df500f265da597c772b0d)
 - [手摸手，带你用Vue撸后台系列文章](https://segmentfault.com/a/1190000010043013)
+- [详解vue生命周期](https://segmentfault.com/a/1190000011381906)
 
 ##  <div id="算法"></div>算法
 
