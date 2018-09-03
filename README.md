@@ -25,6 +25,7 @@
 ##  <div id="CSS"></div>CSS
 
 - [CSS性能优化的8个技巧](https://juejin.im/post/5b6133a351882519d346853f)
+- [CSS垂直居中23中方法](http://csscoke.com/2018/08/21/css-vertical-align/)
 
 ##  <div id="Vue"></div>Vue
 
