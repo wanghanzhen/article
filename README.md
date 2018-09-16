@@ -26,6 +26,7 @@
 
 - [CSS性能优化的8个技巧](https://juejin.im/post/5b6133a351882519d346853f)
 - [CSS垂直居中23中方法](http://csscoke.com/2018/08/21/css-vertical-align/)
+- [BFC 神奇背后的原理](http://www.cnblogs.com/lhb25/p/inside-block-formatting-ontext.html)
 
 ##  <div id="Vue"></div>Vue
 
