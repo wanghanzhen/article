@@ -21,6 +21,7 @@
 - [hey，你的Promise](https://juejin.im/post/5b58300b6fb9a04fea58a27e)
 - [摆脱令人抓狂的ESlint 语法检测配置说明](https://segmentfault.com/a/1190000008742240)
 - [webpack4-用之初体验，一起敲它十一遍](https://juejin.im/post/5adea0106fb9a07a9d6ff6de)
+- [js隐式转换](https://juejin.im/post/5bc5c752f265da0a9a399a62)
 
 ##  <div id="CSS"></div>CSS
 
