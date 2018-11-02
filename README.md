@@ -37,6 +37,10 @@
 - [手摸手，带你用Vue撸后台系列文章](https://segmentfault.com/a/1190000010043013)
 - [详解vue生命周期](https://segmentfault.com/a/1190000011381906)
 
+##  <div id="React"></div>React
+
+- [Immutable 详解及 React 中实践](https://zhuanlan.zhihu.com/p/20295971)
+
 ##  <div id="算法"></div>算法
 
 - [十大经典排序算法（动图演示）](https://www.cnblogs.com/onepixel/p/7674659.html)
