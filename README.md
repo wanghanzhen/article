@@ -62,5 +62,5 @@
 - [总结了17年初到18年初百场前端面试的面试经验](https://juejin.im/post/5b44a485e51d4519945fb6b7)
 - [2018春招前端面试: 闯关记(精排精校) | 掘金技术征文](https://juejin.im/post/5a998991f265da237f1dbdf9)
 
-## <div id="其他"></div>
+## <div id="其他"></div>其他
 - [git简明指南](https://www.css88.com/doc/git-guide/)
