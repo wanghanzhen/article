@@ -10,6 +10,7 @@
 - [浏览器](#浏览器)
 - [安全](#安全)
 - [面试集](#面试集)
+- [其他](#其他)
 
 :books::books::books:慢慢累计当中...
 
@@ -41,6 +42,7 @@
 
 - [Immutable 详解及 React 中实践](https://zhuanlan.zhihu.com/p/20295971)
 - [React生态体系](https://zhuanlan.zhihu.com/p/26270621)
+- [2019年React新手学习指南](https://www.css88.com/archives/10111)
 
 ##  <div id="算法"></div>算法
 
@@ -59,3 +61,6 @@
 - [一点感悟：当走完所有大厂的实习面试后](https://juejin.im/post/5b68f384f265da0fa00a3df0)
 - [总结了17年初到18年初百场前端面试的面试经验](https://juejin.im/post/5b44a485e51d4519945fb6b7)
 - [2018春招前端面试: 闯关记(精排精校) | 掘金技术征文](https://juejin.im/post/5a998991f265da237f1dbdf9)
+
+## <div id="其他"></div>
+- [git简明指南](https://www.css88.com/doc/git-guide/)
