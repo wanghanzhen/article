@@ -60,6 +60,7 @@
 - [Page Visibility API 教程](http://www.ruanyifeng.com/blog/2018/10/page_visibility_api.html)
 - [Page Lifecycle API 教程](http://www.ruanyifeng.com/blog/2018/11/page_lifecycle_api.html)
 - [前端性能优化最佳实践](https://csspod.com/frontend-performance-best-practices/)
+- [关键路径渲染](https://mp.weixin.qq.com/s/VPm771Xs2G4Vg3J8A2A11A)
 
 ## <div id="安全"></div>安全
 
