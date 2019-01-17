@@ -7,6 +7,8 @@
 - [HTML](#HTML)
 - [CSS](#CSS)
 - [Vue](#Vue)
+- [React](#React)
+- [小程序](#小程序)
 - [算法](#算法)
 - [浏览器](#浏览器)
 - [安全](#安全)
@@ -50,6 +52,10 @@
 - [Immutable 详解及 React 中实践](https://zhuanlan.zhihu.com/p/20295971)
 - [React生态体系](https://zhuanlan.zhihu.com/p/26270621)
 - [2019年React新手学习指南](https://www.css88.com/archives/10111)
+
+##  <div id="小程序"></div>小程序
+
+- [微信小程序之登录态的探索](https://mp.weixin.qq.com/s/hILtGieD8dn4EyndZ2aIMw)
 
 ##  <div id="算法"></div>算法
 
