@@ -28,6 +28,7 @@
 - [js隐式转换](https://juejin.im/post/5bc5c752f265da0a9a399a62)
 - [前端模块化详解](https://juejin.im/post/5c17ad756fb9a049ff4e0a62)
 - [前端中的IOC](https://juejin.im/post/5c2c47dcf265da616d544a53)
+- [GraphQL到底怎么用？](https://mp.weixin.qq.com/s/OQFanVtx0CvQsIMamrW76A)
 
 ##  <div id="HTML"></div>HTML
 
