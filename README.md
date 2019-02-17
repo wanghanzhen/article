@@ -74,6 +74,8 @@
 ## <div id="安全"></div>安全
 
 - [前端安全知识](https://juejin.im/post/59dc2b7a6fb9a0451869ae3a)
+- [前端安全系列（一）：如何防止XSS攻击？](https://tech.meituan.com/2018/09/27/fe-security.html)
+- [前端安全系列（二）：如何防止CSRF攻击？](https://tech.meituan.com/2018/10/11/fe-security-csrf.html)
 
 ## <div id="面试集"></div>面试集
 
