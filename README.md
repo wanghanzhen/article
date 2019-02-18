@@ -30,6 +30,7 @@
 - [前端中的IOC](https://juejin.im/post/5c2c47dcf265da616d544a53)
 - [GraphQL到底怎么用？](https://mp.weixin.qq.com/s/OQFanVtx0CvQsIMamrW76A)
 - [PWA学习手册](https://alienzhou.gitbook.io/learning-pwa/)
+- [常见的移动端H5页面开发遇到的坑和解决办法](https://yq.aliyun.com/articles/587092)
 
 ##  <div id="HTML"></div>HTML
 
