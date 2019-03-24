@@ -50,6 +50,7 @@
 - [160行代码仿Vue实现极简双向绑定](https://juejin.im/post/5b2df500f265da597c772b0d)
 - [手摸手，带你用Vue撸后台系列文章](https://segmentfault.com/a/1190000010043013)
 - [详解vue生命周期](https://segmentfault.com/a/1190000011381906)
+- [Vue构建工具的设计与实现](https://mp.weixin.qq.com/s/G2NCndOcWh_9CQvBZNAE4A)
 
 ##  <div id="React"></div>React
 
@@ -73,6 +74,7 @@
 - [前端性能优化最佳实践](https://csspod.com/frontend-performance-best-practices/)
 - [关键路径渲染](https://mp.weixin.qq.com/s/VPm771Xs2G4Vg3J8A2A11A)
 - [你真的了解webview么?](https://mp.weixin.qq.com/s?__biz=MzU0OTExNzYwNg==&mid=2247484615&idx=1&sn=3bcef21cb6777165fd23f1a571d56d63&chksm=fbb58f0eccc20618f2631b1105963e401841978c970a17eb0ab41a5b76470b2444737d9493ed&token=734937355&lang=zh_CN#rd)
+- [浏览器中的二进制以及相关转换](https://mp.weixin.qq.com/s/zqMtZ9aZEdCqM0q6SUrqDQ)
 
 ## <div id="安全"></div>安全
 
