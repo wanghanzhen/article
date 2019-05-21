@@ -99,3 +99,4 @@
 ## <div id="其他"></div>其他
 - [git简明指南](https://www.css88.com/doc/git-guide/)
 - [大前端时代你的vscode插件](https://mp.weixin.qq.com/s/AFqHIqss-I8Zd7uA-1oGBg)
+- [一名【合格】前端工程师的自检清单](https://juejin.im/post/5cc1da82f265da036023b628)
