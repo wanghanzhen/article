@@ -33,6 +33,7 @@
 - [PWA学习手册](https://alienzhou.gitbook.io/learning-pwa/)
 - [常见的移动端H5页面开发遇到的坑和解决办法](https://yq.aliyun.com/articles/587092)
 - [H5 键盘兼容性小结](https://juejin.im/post/5c6d1c8b6fb9a049de6df441)
+- [前端大文件上传](https://juejin.im/post/5cf765275188257c6b51775f)
 
 ##  <div id="Node"></div>Node
 
