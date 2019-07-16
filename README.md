@@ -85,6 +85,7 @@
 - [你真的了解webview么?](https://mp.weixin.qq.com/s?__biz=MzU0OTExNzYwNg==&mid=2247484615&idx=1&sn=3bcef21cb6777165fd23f1a571d56d63&chksm=fbb58f0eccc20618f2631b1105963e401841978c970a17eb0ab41a5b76470b2444737d9493ed&token=734937355&lang=zh_CN#rd)
 - [浏览器中的二进制以及相关转换](https://mp.weixin.qq.com/s/zqMtZ9aZEdCqM0q6SUrqDQ)
 - [Chrome运行时性能瓶颈分析](https://mp.weixin.qq.com/s/ijkEkjxAByFAm1JtDPXPMQ)
+- [浏览器渲染基本原理解析](https://mp.weixin.qq.com/s/njwpsI-5T2mewPYjNef0jA)
 
 ## <div id="安全"></div>安全
 
