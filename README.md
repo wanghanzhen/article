@@ -66,6 +66,7 @@
 - [Immutable 详解及 React 中实践](https://zhuanlan.zhihu.com/p/20295971)
 - [React生态体系](https://zhuanlan.zhihu.com/p/26270621)
 - [2019年React新手学习指南](https://www.css88.com/archives/10111)
+- [21 项优化 React App 性能的技术](https://mp.weixin.qq.com/s/PSYm43GkIR9tZVWpAEWrNA)
 
 ##  <div id="小程序"></div>小程序
 
