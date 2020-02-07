@@ -41,6 +41,7 @@
 - [Koa2进阶学习笔记](https://chenshenhai.github.io/koa2-note/)
 - [Koa.js 设计模式](https://chenshenhai.github.io/koajs-design-note/)
 - [基于 Egg.js 框架的 Node.js 服务构建之用户管理设计](https://segmentfault.com/a/1190000014952764)
+- [Node定时器详解](http://www.ruanyifeng.com/blog/2018/02/node-event-loop.html)
 
 ##  <div id="HTML"></div>HTML
 
